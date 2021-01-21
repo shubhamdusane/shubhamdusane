@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Stablecoin Project
 - 🌱 I’m currently Exploring BLockchain
 - 👯 I’m looking to collaborate on Blockchain Projects
-- 🤔 I’m looking for help with Blockchain Technology
 - 💬 Ask me about Blockchain and any Tech/Blockchain Related Stuff
 - 📫 How to reach me: [Linkedin - @shubhamdusane](https://www.linkedin.com/in/shubhamdusane/) , 
 Gmail - sdusane4@gmail.com
