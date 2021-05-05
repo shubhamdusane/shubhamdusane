@@ -1,6 +1,6 @@
 ###  I'm Shubham Dusane
 
-- 🔭 I’m currently working on Stablecoin Project
+- 🔭 I’m currently working on DeFi Projects
 - 🌱 I’m currently Exploring Blockchain
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 💬 Ask me about Blockchain and any Tech/Blockchain Related Stuff
