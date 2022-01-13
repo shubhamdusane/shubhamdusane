@@ -1,9 +1,9 @@
 ###  I'm Shubham Dusane
 
-- 🔭 I’m currently working on DeFi Projects
-- 🌱 I’m currently Exploring Blockchain
-- 👯 I’m looking to collaborate on Blockchain Projects
-- 💬 Ask me about Blockchain and any Tech/Blockchain Related Stuff
+- 🔭 Working on exciting innovative DeFi Projects
+- 🌱 Exploring Blockchain and innovative stuff
+- 👯 Collaborate with me on Projects
+- 💬 Ask me about Blockchain and any Tech/Blockchain, Digital Marketing, Wordpress Developent, COntent Writing, COntent Marketing, Whitepaper Writing, Blockchain Project Architecture Development, Project Development Related Stuff
 - 📫 How to reach me: [Linkedin - @shubhamdusane](https://www.linkedin.com/in/shubhamdusane/) , 
 Gmail - sdusane4@gmail.com
 -->
